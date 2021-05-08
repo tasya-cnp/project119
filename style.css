@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(216, 168, 48);
+}
+.heading_div
+{
+    float: none;
+    background: honeydew;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgba(131, 49, 110, 0.664);
+}
+.heading_div2
+{
+    font-size: 18px;
+}
+.reult_pera_tag
+{
+    box-shadow: 5px 5px 5px turquoise;
+    font-size: 20px;
+}
+.copy_right_footer
+{  
+    position: fixed;
+    color: teal;
+    bottom: 0px;
+    width: 100%;
+    background-color: hotpink;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+   border: 5px solid white;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px black;
+   margin-top: 150px;
+}
